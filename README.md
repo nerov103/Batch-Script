@@ -46,7 +46,7 @@ Screenshot 3
 Batch scripting is commonly used for automating repetitive tasks on Windows operating systems. Below are some real-world use cases of batch scripting: Network administration: Used to automate tasks like mapping network drives, configuring firewalls, or managing user access to network resources
 ## Documentation
 
-[Documentation](https://doc.batch.com/)
+[Documentation](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown)
 
 [Documentation](https://learn.microsoft.com/en-us/azure/batch/)
 
